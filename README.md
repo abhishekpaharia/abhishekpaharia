@@ -7,11 +7,12 @@
 
 - I'm currently spending my time on **problem solving by solving Leetcode problems**
 
-- 💬 Ask me about **Java, Python, Spring boot, Django, REST Apis, SQL, React, Angular, JavaScript, TypeScript**
+- 💬 Ask me about:
+   **Java, Python, Spring boot, Django, REST Apis, SQL, React, Angular, JavaScript, TypeScript**
 
 - 📫 How to reach me **abhipaharia12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oBx6iKn-9sFGl0Dz8UIc9E1DwHCnhBzW/view?usp=share_link](https://drive.google.com/file/d/1oBx6iKn-9sFGl0Dz8UIc9E1DwHCnhBzW/view?usp=share_link)
+- 📄 Know about my experiences via my [resume](https://drive.google.com/file/d/1oBx6iKn-9sFGl0Dz8UIc9E1DwHCnhBzW/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
