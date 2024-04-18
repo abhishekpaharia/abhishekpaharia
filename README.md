@@ -1,4 +1,4 @@
-![image](https://github.com/abhishekpaharia/abhishekpaharia/assets/113120823/070598a8-ca9c-4542-b94d-a160cbba7261)<h1 align="center">Hi 👋, I'm Abhishek Paharia</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Paharia</h1>
 <h3 align="center">A passionate software engineer from the USA, graduated from the University at Buffalo and IIT Roorkee</h3>
 
 - I have worked on full stack web applications on **development of REST APIs using Spring boot, Django, and Frontend using React and Angular**
