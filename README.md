@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhipaharia12@gmail.com**
 
-- 📄 Know about my experiences via my [resume](https://drive.google.com/file/d/1F9S73Ln7iAeJNpzl3QIYR6hx5rNSv3qN/view?usp=sharing)
+<!---  - 📄 Know about my experiences via my [resume](https://drive.google.com/file/d/1F9S73Ln7iAeJNpzl3QIYR6hx5rNSv3qN/view?usp=sharing) --->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
